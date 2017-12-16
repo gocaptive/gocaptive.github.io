@@ -1,0 +1,43 @@
+body {
+	background: #000;
+	background-color: #FFF;
+	color: #red;
+	font-size: 12px;
+	font-style: initial;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+
+}
+
+h1 {
+	font-weight: bold;
+}
+
+p {
+	font-family: Arial;
+}
+
+img {
+
+}
+
+#slogan {
+	margin: 5px;
+	padding: 5px;
+	border: 10px;
+	width: 8px;
+	text-align: right;
+	color: grey;
+}
+
+#bestID {
+text-align: right;
+color: grey;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
