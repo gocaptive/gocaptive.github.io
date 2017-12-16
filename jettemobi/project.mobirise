@@ -50,7 +50,7 @@
             "buttonAlign": "right",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-56861922-preview-1000x668.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -60,78 +60,18 @@
             },
             "overlay": true,
             "overlayColor": "#2c3e50",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.7"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Mobirise<br>Website<br>Builder",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "title": "Rocket Art Hive",
+          "text": "Your way",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
           "_anchor": "header1-0"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "kenburns",
-            "theme": "boundary",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
-                "title": "title 1",
-                "text": "text 1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3"
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "1",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-b"
         },
         {
           "_styles": {
@@ -162,7 +102,7 @@
             "showArrow": true,
             "imageSize": 90,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/030.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f1c40f",
@@ -194,7 +134,7 @@
             }
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Mobirise is free for both personal and commercial use",
+          "title": "Rocket Art Hive",
           "text": "free download",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger btn-lg\" href=\"https://mobirise.com\">download it</a>",
           "media1": {
@@ -242,9 +182,9 @@
             "showButtons": true,
             "showImage": true,
             "showArrow": true,
-            "imageSize": 90,
+            "imageSize": "87",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/030.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#e74c3c",
@@ -275,8 +215,8 @@
             }
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Mobirise is free for both personal and commercial use",
-          "text": "free download",
+          "title": "Rocket Art Hive",
+          "text": "EASY ACCESS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">download it</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -319,7 +259,7 @@
             "overlayOpacity": 0.6
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Mobirise is free for both personal and commercial use",
+          "title": "inspire, create, learn, be, stretch, grow, paint, laugh",
           "text": "free download",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\">download now</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\">menu</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\">blog</a><a data-app-btn=\"true\" class=\"btn btn-transparent\" href=\"https://mobirise.com\">contacts</a>",
           "alias": "colorm/components",
@@ -350,7 +290,7 @@
             "showButtons": true,
             "showArrow": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ecf0f1",
@@ -365,14 +305,17 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "src": "@PROJECT_PATH@/assets/images/slider04.jpg",
               "class": "",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title": "DROP-DEAD EASY <br>WEBSITE<br> MAKER",
+          "title": "HAVE YOUR CAKE &nbsp;&amp; EAT IT TOO",
           "subtitle": "mobirise builder",
-          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "text": "This is a place to grow, with classes offered when you need them, it's the perfect solution to moving through touch obstacles.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -387,9 +330,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "animText1": "AGENCIES",
-            "animText2": "STARTUPS",
-            "animText3": "PORTFOLIOS",
+            "animText1": "THROUGH",
+            "animText2": "THE THINGS",
+            "animText3": "THAT SCARE YOU",
             "typeSpeed": 60,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/11-2.jpg",
@@ -404,7 +347,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "WEBSITE BUILDER <br> FOR",
+          "title": "IT'S TIME TO FACE<br>",
           "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
@@ -422,7 +365,7 @@
             "showText": true,
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/030.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#16a085",
@@ -435,10 +378,10 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "BEAUTIFUL MOBILE WEBSITES",
-          "text": "Develop fully responsive, mobile-ready websites",
+          "title": "IT'S A BEAUTIFUL THING",
+          "text": "REACH OUT AND HIT THE SEND BUTTON, WE WILL BE IN TOUCH WITH/IN 24 HOURS!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">download it</a>",
-          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND!!!</a>",
           "form": {
             "action": "gocaptive@gmail.com",
             "alerts": {
@@ -484,7 +427,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+              "src": "https://youtu.be/aMRI35yAw5Y",
+              "autoplay": false,
+              "loop": false,
+              "aspectratio": "4:3"
             }
           },
           "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
@@ -498,6 +444,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-text": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_params": {
@@ -511,17 +460,17 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slider06.jpg",
-                "active": true,
-                "showButtons": true,
+                "active": false,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "IMAGE SLIDER",
+                "title": "SKETCH...",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slider07.jpg",
@@ -531,7 +480,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "IMAGE SLIDE",
+                "title": "COLOR...",
                 "overlay": true,
                 "overlayOpacity": "0.3",
                 "contentAlign": "left",
@@ -539,14 +488,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slider08.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobestock-56861922-preview-1000x668.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "BOOTSTRAP SLIDER",
+                "title": "GET DIRTY...",
                 "overlay": true,
                 "overlayOpacity": "0.1",
                 "contentAlign": "right",
@@ -555,13 +504,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slider09.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "BACKGROUND VIDEO",
+                "title": "GET CENTERED...",
                 "overlay": true,
                 "overlayOpacity": "0.2",
                 "contentAlign": "left",
@@ -569,14 +518,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slider00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1683x1080.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "BOOTSTRAP SLIDER",
+                "title": "WRITE...",
                 "overlay": true,
                 "overlayOpacity": "0.3",
                 "contentAlign": "right",
@@ -597,101 +546,6 @@
         },
         {
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
-                "contentAlign": "center",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
-                "contentAlign": "left",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
-                "contentAlign": "right",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "VIDEO SLIDE",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
-                "contentAlign": "right",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
-                "contentAlign": "left",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "IMAGE SLIDE",
-                "overlay": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
-          "articleLayout": false,
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-9"
-        },
-        {
-          "_params": {
             "showBullets": true,
             "fullWidth": false,
             "spacing": 0,
@@ -705,12 +559,13 @@
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-883-2000x2997.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-883-2000x2997-800x1198.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "caption": "Type caption here",
-                "active": true
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
