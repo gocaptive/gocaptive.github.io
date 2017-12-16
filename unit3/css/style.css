@@ -1,15 +1,9 @@
 body {
-	background: #000;
-	background-color: #FFF;
-	color: #red;
-	font-size: 12px;
-	font-style: initial;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: underline;
-	text-transform: capitalize;
-	background-image: "images/identity.jpg";
-
+  text-align: center;
+  background: url("images/identity.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
 
 h1 {
