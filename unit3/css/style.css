@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url("images/identity.jpg");
+  background: url("/images/identity.jpg");
   background-size: cover;
   color: #fff;
   font-family: Helvetica;
