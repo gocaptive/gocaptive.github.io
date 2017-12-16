@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Alice|Bungee|Passion+One');
+h1 {
+    text-align: center;
+  font-family: 'Mystery Quest', cursive;
+}
+
+p {
+ font-family: 'Passion One', cursive;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
 body {
   text-align: center;
   background: url("http://www.aimeejette.com/unit3/images/identity.jpg");
