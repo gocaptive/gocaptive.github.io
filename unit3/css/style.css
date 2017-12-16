@@ -29,7 +29,8 @@ img {
 	border: 10px;
 	width: 800px;
 	text-align: center;
-	color: grey;
+	color: #000;
+	font-size: x-large;
 }
 
 #bestID {
