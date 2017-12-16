@@ -19,9 +19,9 @@ img {
 }
 
 #slogan {
-	width: 800px;
 	text-align: center;
 	color: #000;
+	font-weight: bolder;
 	font-size: x-large;
 }
 
