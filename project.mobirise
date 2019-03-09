@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
@@ -488,7 +488,7 @@
               }
             },
             ".card-box > p, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "features8",
@@ -509,7 +509,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section content2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-8 col-sm-12 text-section\">\n                <h2 class=\"mbr-fonts-style mbr-title align-left pb-3\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\" mbr-theme-style=\"display-2\">WORK FROM THE STUDIO</h2>\n                <p class=\"mbr-fonts-style mbr-text align-left\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">These are some pieces from my studio. I work mostly in acrylic, collage, found objects, on large canvases. Descriptions and images can be found below!</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content2\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-8 col-sm-12 text-section\">\n                <h2 class=\"mbr-fonts-style mbr-title align-left pb-3\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\" mbr-theme-style=\"display-2\">WORK FROM THE STUDIO</h2>\n                <p class=\"mbr-fonts-style mbr-text align-left\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">These are some pieces from my studio. I work mostly in acrylic, collage, found objects, on large canvases. Descriptions and images can be found below!<br><br>All work can be found on<a href=\"http://www.rocketartstudio.com\" target=\"_blank\"> <b>www.rocketartstudio.com</b></a></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rkaDliRtDX",
           "_protectedParams": [],
           "_global": false,
@@ -775,7 +775,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/goddess-1-1600x1453.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -903,7 +903,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-478-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -988,7 +988,7 @@
     "page1.html": {
       "settings": {
         "title": "Altered Books",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1433,7 +1433,7 @@
     "page3.html": {
       "settings": {
         "title": "Creative Exploration",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1760,7 +1760,7 @@
     "page4.html": {
       "settings": {
         "title": "CREATIVE EXPLORATION",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2167,7 +2167,7 @@
     "page5.html": {
       "settings": {
         "title": "Sock Puppet",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2610,7 +2610,7 @@
     "page6.html": {
       "settings": {
         "title": "Book Making",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3059,7 +3059,7 @@
     "page7.html": {
       "settings": {
         "title": "Drawing in Head",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3502,7 +3502,7 @@
     "page8.html": {
       "settings": {
         "title": "Mask Making",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3945,7 +3945,7 @@
     "page9.html": {
       "settings": {
         "title": "Wire Sculpture",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
