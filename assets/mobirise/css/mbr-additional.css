@@ -1083,7 +1083,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rkadycjL01 {
-  padding-top: 120px;
+  padding-top: 150px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/adobestock-101169664-2000x1333.jpg");
 }
@@ -1113,19 +1113,49 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
 }
-.cid-ruUDO27UiW {
-  padding-top: 45px;
+.cid-rvc5bGpHfU {
+  padding-top: 90px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-ruUDO27UiW .mbr-text {
-  text-align: center;
+.cid-rvc5bGpHfU .mbr-iconfont {
+  font-size: 34px;
+  transition: color .3s;
 }
-.cid-ruUDO27UiW .mbr-title {
-  text-align: center;
+.cid-rvc5bGpHfU .mbr-section-title {
+  margin: 0;
+}
+.cid-rvc5bGpHfU .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-rvc5bGpHfU .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #444444;
+  display: inline-block;
+}
+.cid-rvc5bGpHfU .card-img {
+  text-align: left;
+}
+.cid-rvc5bGpHfU .row-item {
+  padding-bottom: 2rem;
+}
+.cid-rvc5bGpHfU .row-item:hover .card-img .mbr-iconfont {
+  color: #ffbc00 !important;
+}
+@media (max-width: 767px) {
+  .cid-rvc5bGpHfU .card-img,
+  .cid-rvc5bGpHfU .mbr-text,
+  .cid-rvc5bGpHfU .mbr-card-title,
+  .cid-rvc5bGpHfU .mbr-section-subtitle,
+  .cid-rvc5bGpHfU .mbr-section-title,
+  .cid-rvc5bGpHfU .underline {
+    text-align: center !important;
+  }
 }
 .cid-rvavUXRwmH {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -5032,39 +5062,8 @@ body {
 .cid-rka8EshNyk .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rkadycjL01 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/img-80-1000x750.jpg");
-}
-.cid-rkadycjL01 .slider-text-two {
-  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
-  display: inline-block;
-  outline: 1px solid rgba(0, 0, 0, 0.2);
-  outline-offset: -15px;
-  padding: 65px 50px;
-  position: relative;
-  text-align: center;
-}
-.cid-rkadycjL01 .mbr-section-title {
-  color: #232323;
-}
-.cid-rkadycjL01 .mbr-section-title span {
-  color: #ffbc00;
-}
-.cid-rkadycjL01 .mbr-text {
-  color: #232323;
-  letter-spacing: 5px;
-  font-weight: 100;
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-rkadycjL01 .slider-text-two {
-    outline: 15px solid rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.2);
-  }
-}
 .cid-ruUSm39RvR {
-  padding-top: 30px;
+  padding-top: 90px;
   padding-bottom: 45px;
   background: #ffffff;
 }
