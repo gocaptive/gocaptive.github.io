@@ -4659,33 +4659,40 @@ body {
 .cid-rka8EshNyk .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rkadycjL01 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/img-80-1000x750.jpg");
+.cid-rvbZm9edro {
+  padding-top: 105px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/adobestock-173981345-2000x1335.jpg");
 }
-.cid-rkadycjL01 .slider-text-two {
+.cid-rvbZm9edro .slider-text-two {
   background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
   display: inline-block;
   outline: 1px solid rgba(0, 0, 0, 0.2);
   outline-offset: -15px;
   padding: 65px 50px;
   position: relative;
-  text-align: center;
 }
-.cid-rkadycjL01 .mbr-section-title {
+.cid-rvbZm9edro .mbr-section-title,
+.cid-rvbZm9edro .mbr-section-subtitle {
   color: #232323;
 }
-.cid-rkadycjL01 .mbr-section-title span {
-  color: #ffbc00;
+.cid-rvbZm9edro .mbr-section-subtitle span {
+  font-weight: bold;
 }
-.cid-rkadycjL01 .mbr-text {
+.cid-rvbZm9edro .mbr-text {
   color: #232323;
-  letter-spacing: 5px;
   font-weight: 100;
 }
+.cid-rvbZm9edro .mbr-section-btn {
+  color: white;
+}
+@media (max-width: 767px) {
+  .cid-rvbZm9edro .row {
+    margin-left: -15px;
+  }
+}
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-rkadycjL01 .slider-text-two {
+  .cid-rvbZm9edro .slider-text-two {
     outline: 15px solid rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
@@ -5469,39 +5476,8 @@ body {
 .cid-rka8EshNyk .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rkadycjL01 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/adobestock-173981346-2000x1335.jpg");
-}
-.cid-rkadycjL01 .slider-text-two {
-  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
-  display: inline-block;
-  outline: 1px solid rgba(0, 0, 0, 0.2);
-  outline-offset: -15px;
-  padding: 65px 50px;
-  position: relative;
-  text-align: center;
-}
-.cid-rkadycjL01 .mbr-section-title {
-  color: #232323;
-}
-.cid-rkadycjL01 .mbr-section-title span {
-  color: #ffbc00;
-}
-.cid-rkadycjL01 .mbr-text {
-  color: #232323;
-  letter-spacing: 5px;
-  font-weight: 100;
-}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-rkadycjL01 .slider-text-two {
-    outline: 15px solid rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.2);
-  }
-}
 .cid-rvbKSmeKzF {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
