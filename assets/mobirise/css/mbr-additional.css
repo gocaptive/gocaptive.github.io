@@ -790,17 +790,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #ffbc00;
-  color: #000000;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #ffbc00;
-}
 .cid-rka8EshNyk .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -1113,8 +1102,40 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
 }
-.cid-rvc5bGpHfU {
+.cid-rEaEsNKgM7 {
   padding-top: 90px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rEaEsNKgM7 .mbr-section-heading {
+  margin-bottom: 1.5em;
+}
+.cid-rEaEsNKgM7 .input-main {
+  width: 99.6%;
+  margin-left: .1em;
+}
+.cid-rEaEsNKgM7 .form-1 {
+  margin: 0 1em;
+  padding: 0;
+}
+.cid-rEaEsNKgM7 .input-wrap {
+  padding: 0;
+  margin-bottom: 1.3em;
+}
+.cid-rEaEsNKgM7 .input-wrap input {
+  border: 1px solid #ddd;
+  padding-left: .5em;
+  height: 2.5em;
+  width: 96%;
+}
+.cid-rEaEsNKgM7 .form-group textarea {
+  height: 15em;
+  background-color: white;
+  padding: 0.5em 0.6em;
+  width: 98%;
+}
+.cid-rvc5bGpHfU {
+  padding-top: 30px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
